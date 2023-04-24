@@ -12,7 +12,7 @@ LucyCoin is a cryptocurrency project built using the Ethereum blockchain based o
 1. Clone the repository to your local machine:
 
    ```
-   git clone [insert your repo URL here]
+   git clone github.com:jamesninnes/lucy-coin.git
    ```
 
 2. Install the project dependencies:
