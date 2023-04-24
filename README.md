@@ -1,5 +1,3 @@
-Sure! Here is the markdown version of the README file for LucyCoin:
-
 # LucyCoin
 
 LucyCoin is a cryptocurrency project built using the Ethereum blockchain based on the ERC20 token standard. This project is a special gift for my sister, Lucy!
@@ -60,8 +58,6 @@ LucyCoin is a cryptocurrency project built using the Ethereum blockchain based o
    ```
    npx hardhat console --network localhost
    ```
-
-   Here, you can use the contract methods to transfer tokens, check balances, etc.
 
 ## License
 
